@@ -1,0 +1,16 @@
+Package: clickrup
+Title: 'ClickUp' 'API' Client
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jon", "Harmon", , "jonthegeek@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-4781-4346"))
+Description: A client to interact wiht the 'ClickUp' 'API'
+    <https://clickup.com/api/>. 'ClickUp' is a project management app,
+    available at <https://clickup.com>.
+License: MIT + file LICENSE
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.0
