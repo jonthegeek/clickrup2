@@ -8,3 +8,6 @@
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
+^data-raw$
+^_beekeeper\.yml$
+^_beekeeper_rapid\.rds$
